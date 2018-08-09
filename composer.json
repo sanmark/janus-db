@@ -1,15 +1,20 @@
 {
-    "name": "sanmark/illuminated-phinx",
-    "description": "Run Laravel's Illuminate migrations with Phinx.",
+    "name": "sanmark/janus-db",
+    "description": "Sanmark Janus : DB Structure.",
     "type": "project",
     "require": {
-        "sanmark/illuminated-phinx-base": "^0.1.0"
+        "sanmark/illuminated-phinx-base": "^0.1.0",
+        "friendsofphp/php-cs-fixer": "^2.12"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Sanmark Solutions PVT LTD (Sri Lanka)",
             "email": "work@theSanmark.com"
+        },
+        {
+            "name": "Supun Budhajeewa",
+            "email": "budhajeewa@thesanmark.com"
         }
     ],
     "minimum-stability": "stable"
