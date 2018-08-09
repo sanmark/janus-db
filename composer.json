@@ -1,0 +1,16 @@
+{
+    "name": "sanmark/illuminated-phinx",
+    "description": "Run Laravel's Illuminate migrations with Phinx.",
+    "type": "project",
+    "require": {
+        "sanmark/illuminated-phinx-base": "^0.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanmark Solutions PVT LTD (Sri Lanka)",
+            "email": "work@theSanmark.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
